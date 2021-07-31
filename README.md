@@ -7,7 +7,5 @@ A call for scores was extended by [The Society for Music Theory](https://society
 ![SMT-Pod Theme](SMT-Pod_Theme.svg)
 
 
-
-
-<video id="video" playsinline autoplay muted loop src="https://user-images.githubusercontent.com/17169961/127742505-f394823b-3554-4491-84ce-e121f701461c.mp4" type="video/mp4">
+https://user-images.githubusercontent.com/17169961/127743418-5bb7106a-9aeb-4f39-866c-baa83a1c4372.mp4
 
