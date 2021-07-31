@@ -7,4 +7,4 @@ A call for scores was extended by [The Society for Music Theory](https://society
 ![SMT-Pod Theme](SMT-Pod_Theme.svg)
 
 #### *Make Sure To Unmute Media*  
-https://user-images.githubusercontent.com/17169961/127743418-5bb7106a-9aeb-4f39-866c-baa83a1c4372.mp4
+https://user-images.githubusercontent.com/17169961/127746020-2ee393fd-f500-4250-bd14-226c4dc7eb16.mp4
