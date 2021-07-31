@@ -8,6 +8,6 @@ A call for scores was extended by [The Society for Music Theory](https://society
 
 
 
-https://user-images.githubusercontent.com/17169961/127742505-f394823b-3554-4491-84ce-e121f701461c.mp4
 
+<video id="video" playsinline autoplay muted loop src="https://user-images.githubusercontent.com/17169961/127742505-f394823b-3554-4491-84ce-e121f701461c.mp4" type="video/mp4">
 
