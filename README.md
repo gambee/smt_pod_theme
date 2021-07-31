@@ -6,4 +6,8 @@ A call for scores was extended by [The Society for Music Theory](https://society
 
 ![SMT-Pod Theme](SMT-Pod_Theme.svg)
 
-https://user-images.githubusercontent.com/17169961/127739565-a654cd29-2b2b-4541-99d8-4f3aebdd5e4f.mp4
+
+
+https://user-images.githubusercontent.com/17169961/127742505-f394823b-3554-4491-84ce-e121f701461c.mp4
+
+
